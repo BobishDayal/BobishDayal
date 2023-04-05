@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BobishDayal
-- 👀 I’m interested in front-end development though I am new on this..!! But still looking  to some valuable stuff y
+- 👀 I’m interested in front-end development though I am new on this..!! But still looking  to some valuable stuff,
 That can help me to take a peek at how the real coding world look like.
 - 🌱 I’m currently learning javascript and react 
 - 💞️ I’m looking to collaborate on 
